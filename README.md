@@ -1,6 +1,6 @@
 # EU-workers-NHS
 NHS brain drain: more EU workers leaving Birmingham hospitals: </br>
-http://birminghameastside.com/2017/10/17/eu-workers-in-the-nhs-birmingham-hospitals-leavers-are-on-the-rise/
+http://birminghameastside.com/2017/10/17/eu-workers-in-the-nhs-birmingham-hospitals-leavers-are-on-the-rise/ </br>
 Report by Steve Carufel and Carmen Aguilar
 
 ![EU workers leavers](https://github.com/Birmingham-Eastside/EU-workers-NHS/blob/master/EU-leavers-Birmingham-table.png?raw=true)
